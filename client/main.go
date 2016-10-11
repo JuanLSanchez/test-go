@@ -7,7 +7,7 @@ import (
 	"text/tabwriter"
 
 	"github.com/iris-contrib/gothic"
-	"github.com/jpgriffo/oauth/client/goth/aps"
+	"github.com/JuanLSanchez/test-go/client/goth/aps"
 	"github.com/kataras/iris"
 	"github.com/markbates/goth"
 	"github.com/markbates/goth/providers/gplus"
